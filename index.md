@@ -13,3 +13,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] complete homework
+- [ ] study physics
+- [ ] graduate
